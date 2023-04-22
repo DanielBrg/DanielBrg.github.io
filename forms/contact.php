@@ -17,8 +17,8 @@ use PHPMailer\PHPMailer\Exception;
 
     $mail = new PHPMailer();
    
-    $mail->setFrom('farias_138@hotmail.com');
-    $mail->addAddress('farias_138@hotmail.com');
+    $mail->setFrom('contato@pilatesfabrica.com.br');
+    $mail->addAddress('contato@pilatesfabrica.com.br');
    
     $mail->isHTML(true);
     $mail->Subject = $subject;
