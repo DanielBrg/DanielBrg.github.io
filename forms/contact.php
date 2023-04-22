@@ -10,15 +10,15 @@ use PHPMailer\PHPMailer\Exception;
 
   if((isset($_POST['email']) && !empty(trim($_POST['email']))) && (isset($_POST['message']) && !empty(trim($_POST['message'])))){
 
-    $name = !empty($_POST['name']) ? utf8_decode($_POST['name']) : 'Nome n«ªo informado';
+    $name = !empty($_POST['name']) ? utf8_decode($_POST['name']) : 'Nome nÂÂ«Âªo informado';
     $email = utf8_decode($_POST['email']);
-    $subject = !empty($_POST['subject']) ? utf8_decode($_POST['subject']) : 'Assunto n«ªo informado';
+    $subject = !empty($_POST['subject']) ? utf8_decode($_POST['subject']) : 'Assunto nÂÂ«Âªo informado';
     $message = utf8_decode($_POST['message']);
 
     $mail = new PHPMailer();
    
-    $mail->setFrom('contato@fisiopilatesdobrasil.com.br');
-    $mail->addAddress('contato@fisiopilatesdobrasil.com.br');
+    $mail->setFrom('contato@pilatesfabrica.com.br');
+    $mail->addAddress('contato@pilatesfabrica.com.br');
    
     $mail->isHTML(true);
     $mail->Subject = $subject;
@@ -31,8 +31,8 @@ use PHPMailer\PHPMailer\Exception;
     if($mail->send()) {
       echo 'Email enviado com sucesso.';
     } else {
-      echo 'Email n«ªo enviado.';
+      echo 'Email nÂÂ«Âªo enviado.';
     }
   } else {
-    echo 'N«ªo enviado: informar o email e a mensagem.';
+    echo 'NÂÂ«Âªo enviado: informar o email e a mensagem.';
   }
