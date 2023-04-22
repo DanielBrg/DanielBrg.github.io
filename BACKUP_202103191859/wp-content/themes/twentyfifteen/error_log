@@ -1,0 +1,38 @@
+[13-Jun-2019 07:41:53 America/Sao_Paulo] PHP Fatal error:  Call to undefined function _e() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[13-Jun-2019 08:44:57 America/Sao_Paulo] PHP Fatal error:  Call to undefined function the_ID() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/content-page.php on line 11
+[14-Jul-2019 21:15:47 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/404.php on line 10
+[17-Jul-2019 04:55:13 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/archive.php on line 19
+[17-Jul-2019 11:35:24 America/Sao_Paulo] PHP Fatal error:  Call to undefined function the_ID() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/content-link.php on line 13
+[19-Jul-2019 04:46:10 America/Sao_Paulo] PHP Fatal error:  Call to undefined function _e() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[21-Jul-2019 04:05:10 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/index.php on line 17
+[21-Jul-2019 10:35:13 America/Sao_Paulo] PHP Fatal error:  Call to undefined function the_ID() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/content.php on line 13
+[19-Sep-2019 14:46:04 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/404.php on line 10
+[09-Nov-2019 15:40:23 America/Sao_Paulo] PHP Fatal error:  Call to undefined function the_ID() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/content-link.php on line 13
+[11-Nov-2019 07:21:59 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/archive.php on line 19
+[12-Nov-2019 00:00:23 America/Sao_Paulo] PHP Fatal error:  Call to undefined function _e() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[12-Nov-2019 00:00:23 America/Sao_Paulo] PHP Fatal error:  Call to undefined function _e() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[14-Dec-2019 20:14:38 America/Fortaleza] PHP Fatal error:  Call to undefined function the_ID() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/content.php on line 13
+[27-Dec-2019 22:41:52 America/Fortaleza] PHP Fatal error:  Call to undefined function get_header() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/index.php on line 17
+[06-Jun-2020 01:12:07 America/Fortaleza] PHP Fatal error:  Call to undefined function get_header() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/404.php on line 10
+[09-Dec-2020 18:28:44 America/Fortaleza] PHP Fatal error:  Call to undefined function get_header() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/404.php on line 10
+[30-Dec-2020 16:39:43 America/Fortaleza] PHP Fatal error:  Call to undefined function get_header() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/404.php on line 10
+[30-Dec-2020 23:59:20 America/Fortaleza] PHP Fatal error:  Call to undefined function the_ID() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/content-link.php on line 13
+[01-Jan-2021 19:54:09 America/Fortaleza] PHP Fatal error:  Call to undefined function the_ID() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/content.php on line 13
+[03-Jan-2021 23:32:47 America/Fortaleza] PHP Fatal error:  Call to undefined function _e() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[06-Jan-2021 18:09:41 America/Fortaleza] PHP Fatal error:  Call to undefined function get_header() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/archive.php on line 19
+[08-Jan-2021 12:54:23 America/Fortaleza] PHP Fatal error:  Call to undefined function get_header() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/index.php on line 17
+[27-Feb-2021 22:22:00 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Feb-2021 22:22:00 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/404.php on line 10
+[18-Mar-2021 07:13:16 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[18-Mar-2021 07:13:16 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/404.php on line 10
+[18-Mar-2021 07:22:02 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[18-Mar-2021 07:22:02 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/danielbr/public_html/fisiopilatesdobrasil.com.br/wp-content/themes/twentyfifteen/404.php on line 10
